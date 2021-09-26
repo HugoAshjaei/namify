@@ -1,0 +1,28 @@
+{
+  "name": "namify",
+  "version": "1.0.0",
+  "description": "Namify - Find the best English names similar to your name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HosseinDotLink/namify.git"
+  },
+  "keywords": [
+    "name",
+    "similar",
+    "match",
+    "namify"
+  ],
+  "author": "Hossein MohammadiPour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HosseinDotLink/namify/issues"
+  },
+  "homepage": "https://github.com/HosseinDotLink/namify#readme",
+  "dependencies": {
+    "jaro-winkler": "^0.2.8"
+  }
+}
